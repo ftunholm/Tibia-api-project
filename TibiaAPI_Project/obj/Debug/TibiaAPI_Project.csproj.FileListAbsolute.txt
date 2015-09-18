@@ -1,0 +1,7 @@
+c:\users\lanfear\documents\visual studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\bin\Debug\TibiaAPI_Project.dll
+c:\users\lanfear\documents\visual studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\bin\Debug\TibiaAPI_Project.pdb
+c:\users\lanfear\documents\visual studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\obj\Debug\TibiaAPI_Project.dll
+c:\users\lanfear\documents\visual studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\obj\Debug\TibiaAPI_Project.pdb
+C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\obj\Debug\TibiaAPI_Project.Properties.Resources.resources
+C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\obj\Debug\TibiaAPI_Project.csproj.GenerateResource.Cache
+C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\TibiaAPI_Project\TibiaAPI_Project\obj\Debug\TibiaAPI_Project.csprojResolveAssemblyReference.cache
